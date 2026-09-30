@@ -1,4 +1,4 @@
 interface:
   display_name: "东方题材游戏场景"
   short_description: "覆盖武侠、仙侠、神话、志怪、民俗与东方幻想科幻的纯场景提示词"
-  default_prompt: "使用 $midjourney-wuxia-environments，按我的东方题材主题生成 5 组无人场景的中英文提示词，包含镜头、构图、氛围与光影。"
+  default_prompt: "使用 $midjourney-wuxia-environments，按我的东方题材主题生成 10 组无人场景的中英文提示词，包含镜头、构图、氛围与光影。"
